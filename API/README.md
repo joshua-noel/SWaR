@@ -1,1 +1,1 @@
-# Sunny Windy & Rainy API
+# Sunny, Windy & Rainy API
